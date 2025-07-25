@@ -1,4 +1,4 @@
-AI News Hound
+News Hound
 
 Step 1. 
 In the world of AI its very hard to distinguish b/w Real and Fake news
