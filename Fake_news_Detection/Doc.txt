@@ -1,0 +1,23 @@
+AI News Hound
+
+Step 1. 
+In the world of AI its very hard to distinguish b/w Real and Fake news
+
+Step 2
+Main outcome is to Flag Fake news 
+
+Step 3
+Describe the dataset, its source, and the type of data it contains.
+Dataset contains data in .csv format .Seperated into two :- Fake and true news . Dataset Available on Kaggle --fake-and-real-news-dataset
+
+Step 4
+Explain who is affected by this problem and why the solution matters.
+General public  is affect by this Fake news problem causing trust issues and panic.
+My solution will help in  public trust and safety.
+
+Step 5
+List the tools, libraries, and technologies you plan to use.
+
+python libraries like numpy, pandas ,nltk, re,scikit-learn,joblib
+Ide--- Google collab
+Nlp techineques lik TF-idf 
